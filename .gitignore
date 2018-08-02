@@ -1,6 +1,12 @@
+# Application
 /config.php
 /moodle/
 /vendor/
 /.idea/
 /moodledata/
 /version.php
+# End Application
+
+# Composer
+composer.lock
+# End Composer
